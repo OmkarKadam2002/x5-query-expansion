@@ -1,0 +1,8 @@
+duckdb
+nltk
+numpy
+pandas
+scikit-learn
+scipy
+tqdm
+regex
